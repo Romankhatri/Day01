@@ -51,7 +51,7 @@ git checkout main
 git push -u origin main
 
 --add files to repo
-git add --all
+git add cmd
 
 --commit changes
 git commit -m "Added Notes & cmd file"
