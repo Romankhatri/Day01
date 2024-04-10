@@ -49,3 +49,12 @@ git checkout main
 
 --push the change
 git push -u origin main
+
+--add files to repo
+git add --all
+
+--commit changes
+git commit -m "Added Notes & cmd file"
+
+--push the change
+git push -u origin main
